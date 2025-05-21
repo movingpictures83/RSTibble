@@ -1,0 +1,2 @@
+Prefix plugins/RSTibble/example/
+Plugin RSTibble inputfile parameters.txt outputfile .
